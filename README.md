@@ -10,7 +10,7 @@ Making Ghost-Host even more attractive, and add a more professional-look. Ghost-
 HTML hosting template with design features specifically for web-hosting. It offers a unique design which puts your hosting plans at the center.
 
 
-![Gost Host One Page Free Template](https://raw.githubusercontent.com/bootstrapthemesco/gost-host-one-page-free-template/master/gost_host.jpg)
+![Gost Host One Page Free Template](https://raw.githubusercontent.com/bootstrapthemesco/ghost-host-one-page-free-hosting-template/master/gost_host.jpg)
 
 
 
